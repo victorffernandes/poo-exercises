@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="336b7629-c734-40fc-ab79-4ba2f157eba9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wd1eWNffAa5EndVW9xIUToj6Lj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.NumeroPorExtenso">
+    <configuration name="MediaAluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MediaAluno" />
+      <module name="Lista_POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MergeSortedLists" />
+      <module name="Lista_POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumeroPorExtenso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.NumeroPorExtenso" />
+      <module name="Lista_POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Romano" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Romano" />
+      <module name="Lista_POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tempo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Tempo" />
+      <module name="Lista_POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MergeSortedLists" />
+      <item itemvalue="Application.MediaAluno" />
+      <item itemvalue="Application.Tempo" />
+      <item itemvalue="Application.Romano" />
+      <item itemvalue="Application.NumeroPorExtenso" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NumeroPorExtenso" />
+        <item itemvalue="Application.Romano" />
+        <item itemvalue="Application.Tempo" />
+        <item itemvalue="Application.MediaAluno" />
+        <item itemvalue="Application.MergeSortedLists" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="336b7629-c734-40fc-ab79-4ba2f157eba9" name="Default Changelist" comment="" />
+      <created>1579464753156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579464753156</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579464986602">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1579464986602" />
+    <state width="1238" height="135" key="GridCell.Tab.0.bottom" timestamp="1579549494664">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="135" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1579549494664" />
+    <state width="1238" height="135" key="GridCell.Tab.0.center" timestamp="1579549494663">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="135" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1579549494663" />
+    <state width="1238" height="135" key="GridCell.Tab.0.left" timestamp="1579549494662">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="135" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1579549494662" />
+    <state width="1238" height="135" key="GridCell.Tab.0.right" timestamp="1579549494664">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="135" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1579549494664" />
+    <state width="1238" height="161" key="GridCell.Tab.1.bottom" timestamp="1579545536762">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="161" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1579545536762" />
+    <state width="1238" height="161" key="GridCell.Tab.1.center" timestamp="1579545536761">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="161" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1579545536761" />
+    <state width="1238" height="161" key="GridCell.Tab.1.left" timestamp="1579545536760">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="161" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1579545536760" />
+    <state width="1238" height="161" key="GridCell.Tab.1.right" timestamp="1579545536762">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="161" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1579545536762" />
+    <state x="333" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1579464817291">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="333" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1579464817291" />
+    <state x="0" y="23" width="782" height="777" key="find.popup" timestamp="1579470427524">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="0" y="23" width="782" height="777" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1579470427524" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1579467257210">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1579467257210" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Distancia.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Raizes.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/JurosCompostos.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/RaizQuadrada.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/MergeSortedLists.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/MergeSortedLists.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/NumeroPorExtenso.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/NumeroPorExtenso.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/NumeroPorExtenso.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
